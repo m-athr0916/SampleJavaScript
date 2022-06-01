@@ -1,0 +1,13 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+header {
+
+    background-color: darksalmon;
+    text-align: center;
+    margin: 2%;
+    padding: 1%;
+}
